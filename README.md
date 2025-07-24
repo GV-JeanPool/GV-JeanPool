@@ -60,7 +60,7 @@
 <h3>Connect:</h3>
   <!-- Facebook -->
   <a href="https://facebook.com/tu-usuario" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="50" height="50" />
+    <img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="50" height="50" />
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/tu-usuario" target="_blank">
