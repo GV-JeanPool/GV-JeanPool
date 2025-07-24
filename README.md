@@ -58,21 +58,23 @@
 ---
 
 <h3>Connect:</h3>
+<div style="display: flex; align-items: center; gap: 20px;">
   <!-- Instagram -->
   <a href="https://instagram.com/tu-usuario" target="_blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" width="50" height="50" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" width="50" height="50" />
   </a>
-</p>
-<!-- Discord -->
+
+  <!-- Discord -->
   <a href="https://Discord/tu-usuario" target="_blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="instagram" width="50" height="50" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="discord" width="50" height="50" />
   </a>
-</p>
-<!-- Gmail -->
+
+  <!-- Gmail -->
   <a href="https://Gmail/tu-usuario" target="_blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="50" height="50" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="gmail" width="50" height="50" />
   </a>
-</p>
+</div>
+
 
 
 
