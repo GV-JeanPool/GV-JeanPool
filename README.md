@@ -63,4 +63,16 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" width="50" height="50" />
   </a>
 </p>
+<!-- Discord -->
+  <a href="https://Discord/tu-usuario" target="_blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="instagram" width="50" height="50" />
+  </a>
+</p>
+<!-- Gmail -->
+  <a href="https://Gmail/tu-usuario" target="_blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="50" height="50" />
+  </a>
+</p>
+
+
 
